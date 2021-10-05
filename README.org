@@ -1,3 +1,20 @@
 Hi! 👋
 
-Test, test...
+I'm Wiktor.
+
+You may recognize me from my work:
+
+** OpenPGP:
+   * [[https://gitlab.com/wiktor/wkd-checker][Web Key Directory checker]]
+   * [[https://gitlab.com/sequoia-pgp/sequoia/-/commits/main?author=Wiktor%20Kwapisiewicz][Sequoia PGP]]
+   * [[https://github.com/wiktor-k/tpm-openpgp/][TPM support for OpenPGP]]
+   * [[https://gitlab.com/wiktor/pkcs11-openpgp/][PKCS#11 support for OpenPGP]]
+   * [[https://github.com/open-keychain/open-keychain/commits?author=wiktor-k][OpenKeychain]]
+   * [[https://github.com/openpgpjs/openpgpjs/commits?author=wiktor-k][OpenPGP.js]]
+   * [[https://github.com/wiktor-k/openpgp-proofs][OpenPGP proofs]] that was a basis for [[https://keyoxide.org/][Keyoxide]]
+   * [[https://github.com/mailvelope/mailvelope/commits?author=wiktor-k][Mailvelope]]
+   * [[https://github.com/FlowCrypt/flowcrypt-browser/commits?author=wiktor-k][FlowCrypt browser extension]]
+
+** Rust hardware cryptography crates:
+   * [[https://github.com/parallaxsecond/rust-cryptoki/commits?author=wiktor-k][PKCS #11 API Rust wrapper]]
+   * [[https://github.com/parallaxsecond/rust-tss-esapi/commits?author=wiktor-k][TPM ESAPI Rust wrapper]]
