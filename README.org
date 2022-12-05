@@ -10,8 +10,9 @@ Hi! 👋 I'm Wiktor. You may recognize me from my work:
    * [[https://github.com/wiktor-k/openpgp-proofs][OpenPGP proofs]] that was a basis for [[https://keyoxide.org/][Keyoxide]]
    * [[https://github.com/mailvelope/mailvelope/commits?author=wiktor-k][Mailvelope]] and [[https://github.com/FlowCrypt/flowcrypt-browser/commits?author=wiktor-k][FlowCrypt browser extension]]
 
-** Rust hardware cryptography crates
+** Rust cryptography crates
    * [[https://github.com/parallaxsecond/rust-cryptoki/commits?author=wiktor-k][PKCS #11 API Rust wrapper]]
    * [[https://github.com/parallaxsecond/rust-tss-esapi/commits?author=wiktor-k][TPM ESAPI Rust wrapper]]
+   * [[https://github.com/sfackler/rust-openssl/commits/master?author=wiktor-k][rust-openssl]]
 
 I've also made a couple of small PRs to [[https://github.com/k9mail/k-9/commits?author=wiktor-k][K-9 Mail]] and XMPP clients: [[https://github.com/iNPUTmice/Conversations/commits?author=wiktor-k][Conversations.im]] and [[https://github.com/dino/dino/commits?author=wiktor-k][Dino.im]].
