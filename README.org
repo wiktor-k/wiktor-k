@@ -1,6 +1,6 @@
 Hi! 👋 I'm Wiktor. You may recognize me from my work:
 
-** Rust cryptography crates
+** Rust cryptography crates 🦀
    * [[https://github.com/parallaxsecond/rust-cryptoki/commits?author=wiktor-k][PKCS #11 API Rust wrapper]]
    * [[https://github.com/parallaxsecond/rust-tss-esapi/commits?author=wiktor-k][TPM ESAPI Rust wrapper]]
    * [[https://github.com/sfackler/rust-openssl/commits/master?author=wiktor-k][rust-openssl]]
