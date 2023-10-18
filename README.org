@@ -14,6 +14,7 @@ Hi! 👋 I'm Wiktor. You may recognize me from my work:
    * [[https://github.com/open-keychain/open-keychain/commits?author=wiktor-k][OpenKeychain]]
    * [[https://github.com/openpgpjs/openpgpjs/commits?author=wiktor-k][OpenPGP.js]]
    * [[https://github.com/wiktor-k/openpgp-proofs][OpenPGP proofs]] that was a basis for [[https://keyoxide.org/][Keyoxide]]
+   * [[https://gitlab.com/openpgp-card/openpgp-card/-/commits/main?author=Wiktor%20Kwapisiewicz][OpenPGP Card]]
    * [[https://github.com/mailvelope/mailvelope/commits?author=wiktor-k][Mailvelope]] and [[https://github.com/FlowCrypt/flowcrypt-browser/commits?author=wiktor-k][FlowCrypt browser extension]]
 
 I've also made a couple of small PRs to [[https://github.com/k9mail/k-9/commits?author=wiktor-k][K-9 Mail]] and XMPP clients: [[https://github.com/iNPUTmice/Conversations/commits?author=wiktor-k][Conversations.im]] and [[https://github.com/dino/dino/commits?author=wiktor-k][Dino.im]].
