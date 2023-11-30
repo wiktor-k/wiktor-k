@@ -6,6 +6,7 @@ Hi! 👋 I'm Wiktor. You may recognize me from my work:
    * [[https://github.com/sfackler/rust-openssl/commits/master?author=wiktor-k][rust-openssl]]
 
 ** OpenPGP
+   * [[https://github.com/wiktor-k/pysequoia][PySequoia]]
    * [[https://gitlab.com/wiktor/wkd-checker][Web Key Directory checker]]
    * [[https://github.com/rpgp/rpgp/commits?author=wiktor-k][rPGP]]
    * [[https://gitlab.com/sequoia-pgp/sequoia/-/commits/main?author=Wiktor%20Kwapisiewicz][Sequoia PGP]]
