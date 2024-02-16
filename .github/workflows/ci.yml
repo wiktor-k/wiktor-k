@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: 2024 Wiktor Kwapisiewicz <wiktor@metacode.biz>
+# SPDX-License-Identifier: CC0-1.0
+
+name: Build & test
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    name: CI
+    runs-on: ubuntu-latest
+    container:
+      image: archlinux
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - run: pacman -Sy --needed --noconfirm archlinux-keyring
+      - run: pacman -Syu --needed --noconfirm markdownlint
+      - run: mdl README.md
