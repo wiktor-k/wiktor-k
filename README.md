@@ -34,6 +34,7 @@ creating Sequoia PGP wrapper code for [PHP][11] and [Python][12].
 I co-authored the book 📚 [*“OpenPGP for application developers”*][13] and gave a presentation during
 the [NGI webinar on future of OpenPGP][14].
 I’ve received multiple grants from the 🇪🇺 [Next Generation Internet program][EU] thanks to substantial help from the [NLnet Foundation][NL]. The [latest one][SD] involves a close collaboration with [Arch Linux][AL]’s [David Runge][DR] 🙇‍♂️.
+If you're interested in details see [my interview with NGI][INTV].
 
 [13]: https://openpgp.dev/book/
 [14]: https://nlnet.nl/events/20211123/PGP/index.html
@@ -42,6 +43,7 @@ I’ve received multiple grants from the 🇪🇺 [Next Generation Internet prog
 [DR]: https://sleepmap.de/
 [AL]: https://archlinux.org/
 [SD]: https://codeberg.org/wiktor/ssh-openpgp-auth
+[INTV]: https://ngi.eu/ngi-interviews/wiktor-kwapisiewicz-david-runge-and-doron-behar-improving-opensshs-and-pki/
 
 Outside the OpenPGP ecosystem, I was fortunate enough to be invited by
 [arm][15] engineers to help maintain their 🦀 cryptography crates:
