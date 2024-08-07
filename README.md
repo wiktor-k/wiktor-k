@@ -57,11 +57,12 @@ I’m also developing [several other crates][18].
 
 Rust and cryptography are not the only things I’m involved in. I ❤️ open-source and
 try to contribute wherever I can. Check my activity tab but note that
-I’m not exclusively working on Github-hosted code. You can find more
-projects I participate in on [Codeberg][19] and on [Gitlab][20].
+I’m not exclusively working on code hosted here. You can find more
+projects I participate in on [Codeberg][19], [Gitlab][20] and [GitHub][21].
 
 [19]: https://codeberg.org/wiktor
 [20]: https://gitlab.com/wiktor
+[21]: https://github.com/wiktor-k
 
 I began working as a professional software engineer in 2007
 and have since designed and implemented systems for the flight
