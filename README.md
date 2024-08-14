@@ -66,7 +66,7 @@ projects I participate in on [Codeberg][19], [Gitlab][20] and [GitHub][21].
 
 I began working as a professional software engineer in 2007
 and have since designed and implemented systems for the flight
-certification of ✈️ civilian aircrafts, management software for 🔬
+certification of ✈️ civilian aircraft, management software for 🔬
 cancer research programs and dozens of other smaller yet engaging projects.
 In my opinion, the domain of the customer is one of
 the most interesting aspects of this work.
